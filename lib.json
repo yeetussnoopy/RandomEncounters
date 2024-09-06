@@ -1,0 +1,15 @@
+{
+    "id": "randomEncounters",
+    "authors": [
+        "Core"
+    ],
+    "version": "v1.0.0",
+    "engineVer": "v0.7.1",
+	
+    "config": {
+		"encounters": ["virovirokun"],
+    "minStep" : 200,
+    "maxStep" : 50
+		
+    }
+}
